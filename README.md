@@ -91,7 +91,3 @@ button:hover {
 .zero {
     grid-column: span 2;
 }
-calculator/
-├── index.html
-├── style.css
-└── script.js
